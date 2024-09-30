@@ -5,11 +5,11 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version ruby 3.3.4 (2024-07-09 revision be1089c8ec) [x86_64-linux]
 
-* System dependencies
+* System dependencies postgresql
 
-* Configuration
+* Configuration https://gorails.com/setup/windows/11
 
 * Database creation
 
